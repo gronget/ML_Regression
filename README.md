@@ -1,6 +1,6 @@
 # Predicting the Sale Price of Bulldozers using Machine Learning
 
-In this notebook, we're going to go through an example of a machine learning project (End to end Project) with the goal of predicting the sale price of bulldozers.
+In this notebook, we will be going through an example of a machine learning project (End to end Project) with the goal of predicting the sale price of bulldozers.
 
 Since we're trying to predict a number, this kind of problem is known as a regression problem.
 
